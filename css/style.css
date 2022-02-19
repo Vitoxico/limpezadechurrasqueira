@@ -161,6 +161,12 @@ a:focus {
     }
   }
 
+  @media only screen and (min-width: 768px) {
+    .navbar .navbar-brand {
+        font-size: 45px;
+    }
+  }
+
 .navbar .navbar-brand img {
     max-width: 100%;
     max-height: 40px;
